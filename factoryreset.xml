@@ -14,7 +14,7 @@
 </Section>
 <Section name="Task">
 <Key name="Action">InstallApk</Key>
-<Key name="Source">/storage/IPSM/honeywell/autoinstall/gmc.apk</Key>
+<Key name="Source">/storage/IPSM/honeywell/persist/gmc.apk</Key>
 </Section>
 <Section name="Task">
 <Key name="Action">SetDeviceOwner</Key>
