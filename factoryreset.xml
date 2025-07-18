@@ -9,12 +9,12 @@
 </Section>
 <Section name="Task">
 <Key name="Action">InstallFile</Key>
-<Key name="Source">https://github.com/YS1-maker/honeywell/releases/download/gmc/GoogleMobiControl.apk</Key>
-<Key name="Destination">/sdcard/Download/GoogleMobiControl.apk</Key>
+<Key name="Source"></Key>
+<Key name="Destination"></Key>
 </Section>
 <Section name="Task">
 <Key name="Action">InstallApk</Key>
-<Key name="Source">/sdcard/Download/GoogleMobiControl.apk</Key>
+<Key name="Source">/storage/IPSM/honeywell/autoinstall/gmc.apk</Key>
 </Section>
 <Section name="Task">
 <Key name="Action">SetDeviceOwner</Key>
