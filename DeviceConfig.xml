@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDoc name="DeviceConfig" Version="1.0">
+<Section name="Wireless and networks">
+<Section name="WiFi">
+<Section name="WiFi Settings">
+<Key name="WifiEnable">3</Key>
+</Section>
+<Section name="Wifi Proprietary Settings">
+<Key name="enable_power_save">0</Key>
+</Section>
+<Section name="Supplicant">
+<Section name="WiFiProfile1">
+<Key name="SSID">HomeSweetHome</Key>
+<Key name="Assoc Mode">2</Key>
+<Key name="PSK" flags="1024">AHO+rSMrmasvpg+c5NeeESCq8TJkl3i/rfY1Snynldk=</Key>
+<Key name="Encryption">0</Key>
+<Key name="WEP Key Mode">0</Key>
+<Key name="WEP Key0"/>
+<Key name="WEP Key1"/>
+<Key name="WEP Key2"/>
+<Key name="WEP Key3"/>
+<Key name="Active Key"/>
+<Key name="IP type">0</Key>
+<Key name="IP address"/>
+<Key name="Gateway"/>
+<Key name="Prefix Length"/>
+<Key name="DNS 1"/>
+<Key name="DNS 2"/>
+</Section>
+</Section>
+</Section>
+<Section name="More">
+<Section name="Captive Portal Settings">
+<Key name="captive_portal_mode">0</Key>
+</Section>
+</Section>
+</Section>
+<Section name="Honeywell Settings">
+<Section name="Provisioning Mode">
+<Key name="Provision mode">2</Key>
+</Section>
+</Section>
+<Section name="Other settings">
+<Key name="Grant Run Time Permissions">
+net.soti.mobicontrol.androidwork:android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW
+</Key>
+<Key name="Disable Privacy Reminder on MDM Enrollment">0</Key>
+<Section name="MDM Settings">
+<Key name="hon_net_hostname">[MODELNUMBER][SERIALNUMBER]</Key>
+</Section>
+</Section>
+</ConfigDoc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDoc name="Provisioner">
+<Section name="CommandTask">
+<Key name="Action">ClearAllTasks</Key>
+</Section>
+<Section name="Tasks">
+<Section name="Task">
+<Key name="Action">WaitForNetwork</Key>
+</Section>
+<Section name="Task">
+<Key name="Action">InstallFile</Key>
+<Key name="Source">https://downloads.soti.net/apk/AEAgent/GoogleMobiControl-2025.1.2.1214.apk</Key>
+<Key name="Destination">/sdcard/Download/GoogleMobiControl.apk</Key>
+</Section>
+<Section name="Task">
+<Key name="Action">InstallApk</Key>
+<Key name="Source">/sdcard/Download/GoogleMobiControl.apk</Key>
+</Section>
+<Section name="Task">
+<Key name="Action">SetDeviceOwner</Key>
+<Key name="Destination">net.soti.mobicontrol.androidwork/net.soti.mobicontrol.admin.DeviceAdminAdapter</Key>
+<Key name="nvp" type="string">"enrollmentId":"UUZAVY69"</Key>
+</Section>
+</Section>
+</ConfigDoc>
