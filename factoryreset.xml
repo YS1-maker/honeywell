@@ -9,7 +9,7 @@
 </Section>
 <Section name="Task">
 <Key name="Action">InstallFile</Key>
-<Key name="Source">http://soti.net/apk/ae2</Key>
+<Key name="Source">https://downloads.soti.net/apk/AEAgent/GoogleMobiControl-2025.1.2.1214.apk</Key>
 <Key name="Destination">/sdcard/Download/GoogleMobiControl.apk</Key>
 </Section>
 <Section name="Task">
