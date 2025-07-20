@@ -44,7 +44,7 @@
 <Key name="Grant Run Time Permissions">
 net.soti.mobicontrol.androidwork:android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW
 </Key>
-<Key name="Disable Privacy Reminder on MDM Enrollment">0</Key>
+<Key name="Disable Privacy Reminder on MDM Enrollment">1</Key>
 <Section name="MDM Settings">
 <Key name="hon_net_hostname">[MODELNUMBER][SERIALNUMBER]</Key>
 </Section>
