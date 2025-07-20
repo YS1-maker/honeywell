@@ -45,6 +45,8 @@
 <Key name="auto_time">0</Key>
 <Key name="time_12_24">12</Key>
 <Key name="SetDateTime"></Key>
+<Key name="SetDateTime">2025-07-20</Key>
+<Key name="auto_time_zone">0</Key>
 <Key name="SelectTimeZone">Australia/Sydney</Key>
 <Key name="ntp_server"></Key>
 <Key name="Show NTP server option">0</Key>
