@@ -50,9 +50,4 @@ net.soti.mobicontrol.androidwork:android.permission.MANAGE_EXTERNAL_STORAGE,andr
 <Key name="hon_net_hostname">[MODELNUMBER][SERIALNUMBER]</Key>
 </Section>
 </Section>
-<Section name="System">
-<Section name="Date and time">
-<Key name="SelectTimeZone">Australia/Sydney</Key>
-</Section>
-</Section>
 </ConfigDoc>
