@@ -10,9 +10,9 @@
 </Section>
 <Section name="Supplicant">
 <Section name="WiFiProfile1">
-<Key name="SSID">Yashuiphone</Key>
+<Key name="SSID">HomeSweetHome</Key>
 <Key name="Assoc Mode">2</Key>
-<Key name="PSK" flags="1024">Lm5SB2hHmf9iuUd0s6pa/CEEHn47xFYA</Key>
+<Key name="PSK" flags="1024">AHO+rSMrmasvpg+c5NeeESCq8TJkl3i/rfY1Snynldk=</Key>
 <Key name="Encryption">0</Key>
 <Key name="WEP Key Mode">0</Key>
 <Key name="WEP Key0"/>
