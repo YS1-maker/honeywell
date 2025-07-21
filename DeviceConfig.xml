@@ -40,30 +40,6 @@
 <Key name="Provision mode">2</Key>
 </Section>
 </Section>
-<Section name="System">
-<Section name="Date and time">
-<Key name="auto_time">0</Key>
-</Section>
-</Section>
-<Section name="System">
-<Section name="Date and time">
-<Key name="auto_time_zone">0</Key>
-</Section>
-</Section>
-<Section name="Date and time">
-<Key name="time_12_24">12</Key>
-</Section>
-</Section>
-<Section name="System">
-<Section name="Date and time">
-<Key name="SetDateTime">2025-07-20</Key>
-</Section>
-</Section>
-<Section name="System">
-<Section name="Date and time">
-<Key name="SelectTimeZone">Australia/Sydney</Key>
-</Section>
-</Section>
 <Section name="Other settings">
 <Key name="Grant Run Time Permissions">
 net.soti.mobicontrol.androidwork:android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW
