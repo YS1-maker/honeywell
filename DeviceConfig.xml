@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ConfigDoc name="DeviceConfig" Version="1.0">
-<Section name="Wireless and networks">
-<Section name="WiFi">
-<Section name="WiFi Settings">
-<Key name="WifiEnable">3</Key>
-</Section>
-<Section name="Wifi Proprietary Settings">
-<Key name="enable_power_save">0</Key>
-</Section>
-<Section name="Supplicant">
-<Section name="WiFiProfile1">
-<Key name="SSID">Hidden Network</Key>
-<Key name="Assoc Mode">2</Key>
-<Key name="PSK" flags="1024">sgTgONKuPNZsL1jRCtkFGNGXtHAFJGRF</Key>
-<Key name="Encryption">0</Key>
-<Key name="WEP Key Mode">0</Key>
-<Key name="WEP Key0"/>
-<Key name="WEP Key1"/>
-<Key name="WEP Key2"/>
-<Key name="WEP Key3"/>
-<Key name="Active Key"/>
-<Key name="IP type">0</Key>
-<Key name="IP address"/>
-<Key name="Gateway"/>
-<Key name="Prefix Length"/>
-<Key name="DNS 1"/>
-<Key name="DNS 2"/>
-</Section>
-</Section>
-</Section>
 <Section name="More">
 <Section name="Captive Portal Settings">
 <Key name="captive_portal_mode">0</Key>
