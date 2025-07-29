@@ -13,7 +13,7 @@
 </Section>
 <Section name="Other settings">
 <Key name="Grant Run Time Permissions">
-net.soti.mobicontrol.androidwork:android.permission.MANAGE_EXTERNAL_STORAGE,android.permission.SYSTEM_ALERT_WINDOW
+afw_set_permission_grant_state net.soti.mobicontrol.androidwork android.permission.WRITE_SETTINGS allow,afw_set_permission_grant_state net.soti.mobicontrol.androidwork android.permission.POST_NOTIFICATIONS allow,afw_set_permission_grant_state net.soti.mobicontrol.androidwork android.permission.MANAGE_EXTERNAL_STORAGE allow,afw_set_permission_grant_state net.soti.mobicontrol.androidwork android.permission.BIND_NOTIFICATION_LISTENER_SERVICE allow
 </Key>
 <Key name="Disable Privacy Reminder on MDM Enrollment">1</Key>
 <Section name="MDM Settings">
