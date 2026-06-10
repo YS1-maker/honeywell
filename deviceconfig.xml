@@ -14,12 +14,29 @@
 <Key name="Assoc Mode">2</Key>
 <Key name="PSK" flags="1024">hOThdTgVVBrq4wleLl6dxtTcp6+r+HBYXqVTB3jyU3InMG3q2MP9dg==</Key>
 <Key name="Encryption">0</Key>
-<Key name="WEP Key Mode">0</Key>
-<Key name="WEP Key0"/>
-<Key name="WEP Key1"/>
-<Key name="WEP Key2"/>
-<Key name="WEP Key3"/>
-<Key name="Active Key"/>
+<Key name="EAP Method">0</Key>
+<Key name="Phase 2 authentication">0</Key>
+<Key name="Identity"/>
+<Key name="Password"/>
+<Key name="anonymous_identity"/>
+<Key name="Tunnel PAC"/>
+<Key name="Machine PAC"/>
+<Key name="Provisioning">0</Key>
+<Key name="CA Certificate"/>
+<Key name="Client Certificate"/>
+<Key name="Private Field"/>
+<Key name="Private Field Password"/>
+<Key name="WEP Field Mode"/>
+<Key name="WEP Field0"/>
+<Key name="WEP Field1"/>
+<Key name="WEP Field2"/>
+<Key name="WEP Field3"/>
+<Key name="Active Field"/>
+<Key name="AP Proxy type">0</Key>
+<Key name="AP Proxy hostname"/>
+<Key name="AP Proxy port"/>
+<Key name="AP Proxy bypass list"/>
+<Key name="AP Proxy PAC URL"/>
 <Key name="IP type">0</Key>
 <Key name="IP address"/>
 <Key name="Gateway"/>
@@ -37,7 +54,7 @@
 </Section>
 <Section name="Honeywell Settings">
 <Section name="Provisioning Mode">
-<Key name="Provision mode">0</Key>
+<Key name="Provision mode">2</Key>
 </Section>
 </Section>
 <Section name="Other settings">
