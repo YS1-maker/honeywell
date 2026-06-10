@@ -10,9 +10,9 @@
 </Section>
 <Section name="Supplicant">
 <Section name="WiFiProfile1">
-<Key name="SSID">YashuiPhone</Key>
+<Key name="SSID">SOTI Guest</Key>
 <Key name="Assoc Mode">2</Key>
-<Key name="PSK" flags="1024">Lm5SB2hHmf9iuUd0s6pa/CEEHn47xFYA</Key>
+<Key name="PSK" flags="1024">pF9T4eZ1sYSlaHRFTJbxfOd9o4CzzqzFTRn9MFERCMoesDrsDzAk3YMi6oU8Q30Y</Key>
 <Key name="Encryption">0</Key>
 <Key name="WEP Key Mode">0</Key>
 <Key name="WEP Key0"/>
@@ -37,7 +37,7 @@
 </Section>
 <Section name="Honeywell Settings">
 <Section name="Provisioning Mode">
-<Key name="Provision mode">2</Key>
+<Key name="Provision mode">0</Key>
 </Section>
 </Section>
 <Section name="Other settings">
