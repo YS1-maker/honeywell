@@ -13,6 +13,10 @@
 <Key name="Destination">/sdcard/Download/GoogleMobiControl.apk</Key>
 </Section>
 <Section name="Task">
+<Key name="Action">InstallApk</Key>
+<Key name="Source">/sdcard/Download/GoogleMobiControl.apk</Key>
+</Section>
+<Section name="Task">
 <Key name="Action">SetDeviceOwner</Key>
 <Key name="Destination">net.soti.mobicontrol.androidwork/net.soti.mobicontrol.admin.DeviceAdminAdapter</Key>
 <Key name="nvp" type="string">"enrollmentId":"HVVHWU53"</Key>
