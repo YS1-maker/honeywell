@@ -3,15 +3,15 @@
 <Section name="Wireless and networks">
 <Section name="WiFi">
 <Section name="WiFi Settings">
-<Key name="WifiEnable">3</Key>
+<Key name="WifiEnable">1</Key>
 </Section>
 <Section name="Wifi Proprietary Settings">
 <Key name="enable_power_save">0</Key>
 </Section>
 <Section name="Supplicant">
 <Section name="WiFiProfile1">
-<Key name="SSID">HomeSweetHome</Key>
-<Key name="Assoc Mode">2</Key>
+<Key name="SSID"/>
+<Key name="Assoc Mode">0</Key>
 <Key name="PSK" flags="1024">AHO+rSMrmasvpg+c5NeeESCq8TJkl3i/rfY1Snynldk=</Key>
 <Key name="Encryption">0</Key>
 <Key name="WEP Key Mode">0</Key>
