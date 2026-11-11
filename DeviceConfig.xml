@@ -10,9 +10,9 @@
 </Section>
 <Section name="Supplicant">
 <Section name="WiFiProfile1">
-<Key name="SSID">SOTI Guest</Key>
+<Key name="SSID">SOTI QAA</Key>
 <Key name="Assoc Mode">2</Key>
-<Key name="PSK" flags="1024">pF9T4eZ1sYSlaHRFTJbxfOd9o4CzzqzFTRn9MFERCMoesDrsDzAk3YMi6oU8Q30Y</Key>
+<Key name="PSK" flags="1024">hOThdTgVVBrq4wleLl6dxtTcp6+r+HBYXqVTB3jyU3InMG3q2MP9dg==</Key>
 <Key name="Encryption">0</Key>
 <Key name="WEP Key Mode">0</Key>
 <Key name="WEP Key0"/>
